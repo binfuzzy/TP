@@ -15,3 +15,5 @@ Contents of the subject:
   10. Graphic User Interface
   11. Model View Controller
   12. Threads
+  
+Authors: Raúl Dorado Pulido & Javier Mendoza García
