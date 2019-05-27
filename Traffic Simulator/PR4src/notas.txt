@@ -1,0 +1,23 @@
+En este ZIP tenéis la siguiente información:
+
+a) la carpeta lib, que contiene el "jar" necesario para que
+   funcione el proceso de parsear los argumentos del método
+   main.
+
+b) la carpeta "es", que contiene internamente dos carpetas:
+
+      * main: Donde tenéis la clase Main.java completa, y
+              además la clase Comprobador.java, que os permitirá
+              comprobar si la salida de vuestra práctica coincide
+              con la salida esperada. 
+
+      * ini: donde están las clases necesarias para poder parsear
+             los ficheros de entrada.
+
+c) La carpeta "resources", donde aparecen ejemplos de ficheros ".ini",
+   y su salida esperada ".eout". Los ficheros ".ini.eout" son los que debéis
+   comparar con la salida generada por vosotros, que debéis almacenar en
+   el mismo directorio, y con extensión ".ini.out". Por ejemplo, si ejecutáis
+   vuestra práctica para probar "ex1.ini", la salida debéis generarla en
+   el mismo directorio y con el nombre "ex1.ini.out". Esa salida la debéis
+   comparar usando "Comprobador.java" con "ex1.ini.eout".
