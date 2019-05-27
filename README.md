@@ -16,4 +16,4 @@ Contents of the subject:
   11. Model View Controller
   12. Threads
   
-Authors: Raúl Dorado Pulido & Javier Mendoza García
+Authors of both projects: Raúl Dorado Pulido & Javier Mendoza García
